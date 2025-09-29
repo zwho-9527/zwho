@@ -52,6 +52,14 @@ DOMAIN-SUFFIX,nivodi.com
 DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,steampowered.com
 DOMAIN-SUFFIX,abcproxy.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,x.com
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
